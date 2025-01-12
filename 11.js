@@ -1,5 +1,5 @@
 /**
- * MULTIPLE POINTERS
+ * MULTIPLE POINTERS (!!)
  *
  * 11. Container With Most Water
  * 
@@ -42,7 +42,6 @@ const maxArea = (nums) => {
         let width = rightPointer - leftPointer;
         let height = Math.min(nums[leftPointer], nums[rightPointer]);
         maxVolume = Math.max(maxVolume, height * width);
-        console.log (`width: ${width} - height: ${height} - maxVolume ${maxVolume}`);
 
         if (nums[leftPointer] < nums[rightPointer]) {
             leftPointer++;
