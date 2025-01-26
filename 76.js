@@ -1,6 +1,4 @@
 /**
- * SLIDING WINDOW (!!!)
- *
  * 76. Minimum Window Substring
  * 
  * Given two strings `s` and `t` of lengths `m` and `n` respectively, 
