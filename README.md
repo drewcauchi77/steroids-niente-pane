@@ -1,4 +1,4 @@
-| No.   | Topics                                | Easy       | Acceptance    |
+| No.   | Topics                                | Difficulty | Acceptance    |
 |-------|---------------------------------------|------------|---------------|
 | 1     | Array \| Hash Table                   | Easy       | 54.7%         |
 | 3     | String \| Hash Table \| Sliding Window| Medium     | 36.1%         |
