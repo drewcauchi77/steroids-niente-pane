@@ -20,6 +20,7 @@
 | 278   | Binary Search \| Interactive          | Easy       | 45.4%         |                              |
 | 347   | Array \| Hash Table \| D&C \| Sorting | Medium     | 63.9%         |                              |
 | 383   | String \| Hash Table                  | Easy       | 63.6%         |                              |
+| 436   | Array \| Binary Search \| Sorting     | Medium     | 53.5%         |                              |
 | 643   | Array \| Sliding Window               | Easy       | 44.5%         |                              |
 | 647   | String \| Two Pointer \| Dynamic      | Medium     | 71.1%         |                              |
 | 704   | Array \| Binary Search                | Easy       | 59.0%         |                              |
