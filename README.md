@@ -16,6 +16,7 @@
 | 169   | Array \| Hash Table \| D&C            | Easy       | 65.4%         | Boyer-Moore Majority Vote    |
 | 217   | Array \| Hash Table \| Sorting        | Easy       | 62.7%         |                              |
 | 238   | Array \| Prefix Sum                   | Medium     | 67.2%         |                              |
+| 239   | Array \| Queue \| Sliding Window      | Hard       | 47.2%         | Monotonic Queue              |
 | 242   | String \| Hash Table \| Sorting       | Easy       | 65.9%         |                              |
 | 278   | Binary Search \| Interactive          | Easy       | 45.4%         |                              |
 | 347   | Array \| Hash Table \| D&C \| Sorting | Medium     | 63.9%         |                              |
@@ -25,3 +26,4 @@
 | 647   | String \| Two Pointer \| Dynamic      | Medium     | 71.1%         |                              |
 | 704   | Array \| Binary Search                | Easy       | 59.0%         |                              |
 | 1859  | String \| Sorting                     | Easy       | 83.6%         |                              |
+| 2364  | Array \| Hash Table                   | Medium     | 54.1%         |                              |
